@@ -7,8 +7,7 @@ Try [AItohumantextconverter](https://aitohumanconverter.com/)
 
 Try [HumanizeAI](https://humanizeai.org)
 
-Try Pro Version [WriteHuman](https://[humanizeai.org](https://writehuman.ai/?via=aitohuman
-))
+Try Pro Version [WriteHuman](https://writehuman.ai/?via=aitohuman)
 
 
 
